@@ -1,0 +1,11 @@
+#include <stdio.h>
+ int csa()
+ {
+    return 25*2;
+ }
+ int main()
+ {
+    int d=csa()+100;
+    printf("%d",csa());
+    return 0;
+}
